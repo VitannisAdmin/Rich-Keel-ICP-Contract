@@ -1,0 +1,6 @@
+{
+  "name": "Sales Director Agreement",
+  "description": "A friendly, printable agency to sales director agreement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
